@@ -71,5 +71,7 @@ fn main() {
     // test array-sum
     assert_eq!(array_sum(&[5,2,3]),  10);
 
+    println!("All test done")
+
 
 }
